@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.mother{
+    background: url(mummy.JPG) no-repeat center;
+    width: 1120px;
+    height: 1120px;
+}
+.mother{
+    background-color:purple;
+    width: 1112;
+    height: 2200;
+    margin: 0px;
+    padding: 0px;
+}
+.vice{
+    color: gold;
+    text-align: center;
+}

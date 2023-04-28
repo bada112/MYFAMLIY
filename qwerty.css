@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.qwerty{
+    background: url(me.jpg) no-repeat center;
+    background-color:rgb(3, 3, 3);
+    width: 1120px;
+    height: 1120px;
+}
+.gtsa{
+    color:red;
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+}

@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.mother{
+    background: url(MEEMEE.jpg) no-repeat center;
+    background-color:rgb(131, 18, 18);
+    width: 1120px;
+    height: 1120px;
+}
+.vice{
+    color:red;
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+}

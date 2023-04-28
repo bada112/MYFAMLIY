@@ -1,0 +1,85 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.cat{
+    background: url(family.JPG) no-repeat;
+    background-size: cover;
+    height: 102vh;
+}
+.navbar{
+    height: 100px;
+    width: 100%;
+    background:rgba(0,0,0,4);
+}
+.logo{
+    width: 90px;
+    height: 80%;
+    padding: 20px 100px;
+}
+.navbar ul{
+    float: right;
+    margin-right: 20px;
+}
+.navbar ul li{
+    list-style: none;
+    margin: 0 8px;
+    display: inline-block;
+    line-height: 80px;
+}
+.navbar ul  li a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 6px 13px;
+    font-family: "roboto", sans-serif;
+    transition:.4s ;
+}
+.navbar ul li a.active,
+.navbar ul li a:hover{
+    background: red;
+    border-radius: 2px;
+}
+.center{
+ text-align: center;
+ width: 1000px;
+}
+.center{
+    padding: 20%;
+}
+.center h1{
+    color: aquamarine;
+    font-size: 70px;
+    font-weight: bold;
+    width: 900px;
+    text-align: center;
+    right:500% ;
+}
+.center h2{
+    color: brown;
+    font-size: 70px;
+    font-weight: bold;
+    width: 885px;
+    margin-top: 10px;
+    text-align: center;
+}
+footer{
+    height: 100px;
+    width: 100%;
+    background:rgba(0,0,0,4);
+    text-align: center;
+    color: white;
+}
+
+.mother{
+    background: url(iii.JPG) no-repeat center;
+    background-color: bisque;
+    width: 1120px;
+    height: 1120px;
+}
+.vice{
+    color: pink;
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+}
